@@ -2,7 +2,7 @@
 
 **This repo is for the purpose of My Devops Assignment for Bits Pilani WILP.** 
 
-**Student details are provided as below:**
+**Student details are given below:**
 
 **Student Name**: Manisha Abraham
 
