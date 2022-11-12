@@ -1,4 +1,4 @@
-**BITS DevOps Assignment 2022**
+**BITS DevOps Assignment Nov 2022**
 
 **This repo is for the purpose of My Devops Assignment for Bits Pilani WILP.** 
 
