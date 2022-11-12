@@ -1,6 +1,6 @@
 **BITS DevOps Assignment**
 
-**This repo is for the purpose of Devops Assignment for Bits Pilani WILP.** 
+**This repo is for the purpose of My Devops Assignment for Bits Pilani WILP.** 
 
 **Student details given below:**
 
